@@ -1,9 +1,9 @@
 ---
-title: Introduction to Leap Motion
-author: YalesonChan
-profile_picture: http://www.famousbirthdays.com/faces/laurel-stan-image.jpg
-short_bio: If anyone at my funeral has a long face, I'll never speak to him again.
-author_site: https://github.com/cyw3
+layout: post
+title: "Introduction to Leap Motion"
+date:   2016-01-18 15:04:23
+categories: jekyll update
+tags: [LeapMotion]
 ---
 
 ## 前言

@@ -1,10 +1,11 @@
 ---
-title: 投资组合的收益率走势图
-author: YalesonChan
-profile_picture: http://www.famousbirthdays.com/faces/laurel-stan-image.jpg
-short_bio: If anyone at my funeral has a long face, I'll never speak to him again.
-author_site: https://github.com/cyw3
+layout: post
+title: "投资组合的收益率走势图"
+date:   2016-01-13 15:04:23
+categories: jekyll update
+tags: [R]
 ---
+
 
 ## 前言
 各位看官好，我是小陈，今天又来献丑了。作为金融小白，小陈我最近一直在恶补投资方面的知识。而前些天，正好涌哥叫我用况客API实现一个投资组合的收益率走势图，感觉自己一身代码神功又有用武之地了。

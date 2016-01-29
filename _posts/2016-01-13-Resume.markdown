@@ -1,9 +1,9 @@
 ---
-title: YalesonChan's Resume
-author: YalesonChan
-profile_picture: http://www.famousbirthdays.com/faces/laurel-stan-image.jpg
-short_bio: If anyone at my funeral has a long face, I'll never speak to him again.
-author_site: https://github.com/cyw3
+layout: post
+title: "YalesonChan's Resume"
+date:   2016-01-13 15:04:23
+categories: jekyll update
+tags: [Resume]
 ---
 
 # 陳越威

@@ -1,9 +1,9 @@
 ---
-title: Java Garbage Collection Mechanism
-author: YalesonChan
-profile_picture: http://www.famousbirthdays.com/faces/laurel-stan-image.jpg
-short_bio: If anyone at my funeral has a long face, I'll never speak to him again.
-author_site: https://github.com/cyw3
+layout: post
+title: " Java Garbage Collection Mechanism"
+date:   2016-01-17 15:04:23
+categories: jekyll update
+tags: [Java]
 ---
 
 ## 前言

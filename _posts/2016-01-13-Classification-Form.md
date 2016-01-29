@@ -1,9 +1,9 @@
 ---
-title: 申万行业分类日间表格
-author: YalesonChan
-profile_picture: http://www.famousbirthdays.com/faces/laurel-stan-image.jpg
-short_bio: If anyone at my funeral has a long face, I'll never speak to him again.
-author_site: https://github.com/cyw3
+layout: post
+title: "申万行业分类日间表格"
+date:   2016-01-13 15:04:23
+categories: jekyll update
+tags: [R]
 ---
 
 ## 前言
